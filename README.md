@@ -1,2 +1,2 @@
 # singing-voice-conversion
-Attempting to translate musicians voices
+Attempting to translate voices
